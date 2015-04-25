@@ -13,6 +13,7 @@
 		233D991E1AEBB4CD0041C7DE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 233D991D1AEBB4CD0041C7DE /* Images.xcassets */; };
 		233D99211AEBB4CD0041C7DE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 233D991F1AEBB4CD0041C7DE /* LaunchScreen.xib */; };
 		233D992D1AEBB4CD0041C7DE /* my_purple_newsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 233D992C1AEBB4CD0041C7DE /* my_purple_newsTests.swift */; };
+		233D99371AEBBD580041C7DE /* pizza-rolls.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 233D99361AEBBD580041C7DE /* pizza-rolls.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		233D99261AEBB4CD0041C7DE /* my-purple-newsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "my-purple-newsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		233D992B1AEBB4CD0041C7DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		233D992C1AEBB4CD0041C7DE /* my_purple_newsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = my_purple_newsTests.swift; sourceTree = "<group>"; };
+		233D99361AEBBD580041C7DE /* pizza-rolls.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "pizza-rolls.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				233D99161AEBB4CD0041C7DE /* AppDelegate.swift */,
 				233D99181AEBB4CD0041C7DE /* ViewController.swift */,
 				233D991A1AEBB4CD0041C7DE /* Main.storyboard */,
+				233D99361AEBBD580041C7DE /* pizza-rolls.jpg */,
 				233D991D1AEBB4CD0041C7DE /* Images.xcassets */,
 				233D991F1AEBB4CD0041C7DE /* LaunchScreen.xib */,
 				233D99141AEBB4CD0041C7DE /* Supporting Files */,
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				233D991C1AEBB4CD0041C7DE /* Main.storyboard in Resources */,
+				233D99371AEBBD580041C7DE /* pizza-rolls.jpg in Resources */,
 				233D99211AEBB4CD0041C7DE /* LaunchScreen.xib in Resources */,
 				233D991E1AEBB4CD0041C7DE /* Images.xcassets in Resources */,
 			);
@@ -409,6 +413,7 @@
 				233D99321AEBB4CD0041C7DE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		233D99331AEBB4CD0041C7DE /* Build configuration list for PBXNativeTarget "my-purple-newsTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +422,7 @@
 				233D99351AEBB4CD0041C7DE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
